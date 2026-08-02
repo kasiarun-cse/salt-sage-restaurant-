@@ -1,0 +1,56 @@
+body{
+    background : linear-gradient(to left, #799bbd, #e9ecef);
+}
+.contact{
+    display: flex;
+    flex-direction: column;
+    color:darkolivegreen;
+    font-family: cursive;
+    margin-left:50px;
+}
+.map{
+    flex: 1;
+    
+}
+iframe{
+    width: 60%;
+    height: 40vh;
+    border-radius: 50px;
+}
+h1{
+    font-size: 80px;
+    padding: 10px;
+    border-bottom: 3px solid rgb(253, 242, 242);
+    border-top: 9px solid rgb(253, 242, 242);
+    border-radius: 30px;
+    text-align: center;
+}
+.address{
+    flex: 1;
+    font-size:2em;
+}
+.contactus{
+    flex: 1;
+    font-family:cursive;
+    font-size:1em;
+}
+.branch{
+    flex: 1;
+}
+.branch h2{
+    text-decoration: underline;
+}
+.branch li{
+    padding-top: 5px;
+    font-size:20px;
+    
+}
+.social{
+    flex:1;
+
+}
+.social a{
+    padding: 10px;
+    text-decoration: none;
+    color: green;
+}

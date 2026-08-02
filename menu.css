@@ -1,0 +1,159 @@
+body{
+    background-image: url(images/img30.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+
+}
+.item{
+    display: flex;
+    flex-direction: row;
+}
+h2{
+    text-align: center;
+    color: whitesmoke;
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: underline;
+}
+.veg{
+    flex: 1;
+    display: flex;
+    width: 70%;
+}
+img{
+    border-radius: 50px;
+    width: 150px;
+    height: 150px;
+}
+.idli{
+    flex: 1;
+    border-top: 10px solid rgb(255, 249, 249);
+    border-radius: 80px;
+    text-align: center;
+    padding: 20px;
+
+    
+}
+.dosa{
+    flex: 1;
+    border-bottom: 3px solid rgb(255, 249, 249);
+    border-radius: 100px;
+    text-align: center;
+    padding: 20px;
+}
+.whiterice{
+    flex: 1;
+    border-top: 10px solid rgb(255, 249, 249);
+    border-radius: 80px;
+    text-align: center;
+    padding: 20px;
+}
+.nonveg{
+    flex : 1;
+    display: flex;
+}
+.beefbiryani{
+    flex : 1;
+    border-top: 10px solid rgb(255, 249, 249);
+    border-radius: 80px;
+    text-align: center;
+    padding: 20px;
+   
+}
+.parota{
+    flex : 1;
+    border-bottom: 10px solid rgb(255, 249, 249);
+    border-radius: 80px;
+    text-align: center;
+    padding: 20px;
+}
+.chapatiprawn{
+    flex : 1;
+    border-top: 10px solid rgb(255, 249, 249);
+    border-radius: 80px;
+    text-align: center;
+    padding: 20px;
+}
+.chickencurry{
+    flex : 1;
+    border-bottom: 10px solid rgb(255, 249, 249);
+    border-radius: 80px;
+    text-align: center;
+    padding: 20px;
+}
+.muttoncurry{
+    flex : 1;
+    border-top: 10px solid rgb(255, 249, 249);
+    border-radius: 80px;
+    text-align: center; 
+}
+.chickentikka{
+    flex : 1;
+    border-bottom: 10px solid rgb(255, 249, 249);
+    border-radius: 80px;
+    text-align: center;
+}
+.fastfood{
+    flex : 1;
+    display: flex;
+    width: 70%;
+}
+.burgar{
+    flex : 1;
+    border-top: 10px solid rgb(247, 247, 247);
+    border-radius: 80px;
+    text-align: center;
+    padding: 20px;
+}
+.pasta{
+    flex : 1;
+    border-bottom: 10px solid rgb(255, 249, 249);
+    border-radius: 80px;
+    text-align: center;
+    padding: 20px;
+}
+.noodles{
+    flex : 1;
+    border-top: 10px solid rgb(255, 249, 249);
+    border-radius: 80px;
+    text-align: center;
+    padding: 20px;
+}
+.cooldrinks{
+    flex : 1;
+    display: flex;
+    width: 70%;
+}
+.schweeps{
+    flex : 1;
+    border-top: 10px solid rgb(255, 249, 249);
+    border-radius: 80px;
+    text-align: center;
+    padding: 20px;
+}
+.cola{
+    flex : 1;
+    border-bottom: 10px solid rgb(255, 249, 249);
+    border-radius: 80px;
+    text-align: center;
+    padding: 20px;
+}
+.mocktail{
+    flex : 1;
+    border-top: 10px solid rgb(255, 249, 249);
+    border-radius: 80px;
+    text-align: center;
+    padding: 20px;
+}
+h3{
+    color: whitesmoke;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1{
+    color: beige;
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}

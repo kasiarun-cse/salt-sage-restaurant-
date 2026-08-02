@@ -1,0 +1,66 @@
+body{
+    background-image: url("images/img30.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+.img{
+    display: flex;
+    flex-direction: column;
+    row-gap: 40px;
+    align-items: center;
+   
+}
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 80px;
+    color: rgb(84, 235, 255);
+    padding: 10px;
+    border-bottom: 3px solid rgb(253, 242, 242);
+    border-top: 9px solid rgb(253, 242, 242);
+    border-radius: 30px;
+}
+h3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    color: rgb(160, 236, 175);
+    padding: 10px;
+    border-bottom: 3px solid rgb(253, 242, 242);
+    border-top: 6px solid rgb(253, 242, 242);
+    border-radius: 30px;
+    text-align: center;
+}
+img{
+    border-radius: 30px;
+    border: 6px solid rgb(253, 242, 242);
+}
+.img1{
+    flex: 1;
+    margin-left: 20px;
+    padding: 20px;
+}
+.img2{
+    flex: 1;
+    margin-left: 20px;
+    padding: 20px;
+}
+.img3{
+    flex: 1;
+    margin-left: 20px;
+    padding: 20px;
+}
+.img4{
+    flex: 1;
+    margin-left: 20px;
+    padding: 20px;
+}
+.img5{
+    flex: 1;
+    margin-left: 20px;
+    padding: 20px;
+}
+.img6{
+    flex: 1;
+    margin-left: 20px;
+    padding: 20px;
+}
